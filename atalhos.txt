@@ -1,0 +1,10 @@
+Atalhos
+
+Rodar aplicação - F5
+
+Abrir propriedades de um objeto windows form - F4
+
+Abrir caixa de ferramentas - CTRL + ALT + X
+
+
+

@@ -1,0 +1,16 @@
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\bin\Debug\Jogos.exe.config
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\bin\Debug\Jogos.exe
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\bin\Debug\Jogos.pdb
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.csproj.AssemblyReference.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.csproj.SuggestedBindingRedirects.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.Form1.resources
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.Properties.Resources.resources
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.csproj.GenerateResource.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.csproj.CoreCompileInputs.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.exe
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.pdb
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\bin\Debug\EntityFramework.dll
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\bin\Debug\EntityFramework.xml
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gugag\OneDrive\Área de Trabalho\worldSkills\desktop\Aplicacao\Jogos\Jogos\obj\Debug\Jogos.csproj.CopyComplete
